@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Assem
 - 👀 I'm interested in backend development and open-source technologies
-- 🌱 I’m currently learning at Misr University for Science and Technology as a third year Computer Science student
+- 🌱 I’m currently learning at Misr University for Science and Technology as a final year Computer Science student
 - ⚡ Fun fact: When not studying, you can find me organizing events for our university's Google Developer Groups chapter
 
 <!---
